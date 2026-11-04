@@ -1,2 +1,1 @@
-Elevor360D Product Mockup Designer V1
-Upload the contents of this ZIP to the root of a GitHub Pages repository. Keep advertising/images and advertising/adverts.json in their original locations. Mockups are illustrative drawings, not manufacturer-specific product photographs.
+Elevor360D Product Mockup Designer V1.1 — photographic-style mockups. The product photos were extracted from an AI-generated design concept and are low-resolution previews, not high-resolution stock photographs. Artwork placement is approximate. All existing files retained. Upload entire extracted folder to GitHub Pages.
